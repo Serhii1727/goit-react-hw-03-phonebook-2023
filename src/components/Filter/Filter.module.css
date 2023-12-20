@@ -1,0 +1,11 @@
+.label {
+  display: flex;
+  flex-direction: column;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.input {
+  margin-top: 5px;
+  margin-bottom: 20px;
+  width: 200px;
+}
